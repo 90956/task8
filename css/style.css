@@ -1,0 +1,34 @@
+
+.course span big{
+    
+    line-height: 60px;
+    width: 100px;
+    display: inline-block;
+    height: 2px;
+}
+
+.course .subject {
+    display: inline-block;
+    /* padding: 35px; */
+    border: 1px solid black;
+}
+.subject h2{
+    color:white;
+    background-color: #84c584;
+}
+.one{
+    padding-left: 143px;
+}
+.two{
+    padding: 123px;
+}
+.three{
+    padding-left: 271px;
+}
+.tt img{
+    border-radius: 50%;
+}
+.tt{
+    margin-right: 20px;
+    padding-right: 20px;
+}
